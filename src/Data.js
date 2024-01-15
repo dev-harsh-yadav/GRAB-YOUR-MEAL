@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Pizza ",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-1.jpg",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Cake(strawbery)",
+    price: 100,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-2.jpg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Brownie",
+    price: 50,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-3.jpg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "vanilla balls",
+    price: 100,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-4.jpg",
+  },
+  {
+    id: "ggj",
+    name: "cookies",
+    price: 250,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-5.jpg",
+  },
+  {
+    id: "jhfjgfjgj",
+    name: "Muffins",
+    price: 200,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-6.jpg",
+  },
+  {
+    id: "gfhgfj",
+    name: "Bread Roll",
+    price: 300,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-7.jpg",
+  },
+  {
+    id: "reuyriuew",
+    name: "Burger",
+    price: 60,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img-8.jpg",
+  },
+];
